@@ -3,21 +3,21 @@
 
 I have provided infrastructure solutions for several clients, who often choose MySQL on EC2 over RDS due to several advantages, such as:
 
-**Full Control and Flexibility
+****Full Control and Flexibility**
 
-Scalability
+**Scalability**
 
-Cost-Effectiveness
+**Cost-Effectiveness**
 
-Data Location Control
+**Data Location Control**
 
-Easy Migration
+**Easy Migration**
 
-Handling Larger Database Sizes
+**Handling Larger Database Sizes**
 
-Meeting Specialized Requirements
+**Meeting Specialized Requirements**
 
-Custom Networking Configurations**
+**Custom Networking Configurations****
 
 If you want to set up MySQL on your EC2 instance, follow these steps, and you can have it running within 5 minutes:
 
